@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: G1
+Version: 0.1.0
+Summary: Layered control for Unitree G1
+Requires-Python: >=3.7
+License-File: LICENSE
+Requires-Dist: torch>=1.10
+Requires-Dist: osqp
+Requires-Dist: scipy
+Requires-Dist: isaacgym
